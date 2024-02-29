@@ -13,10 +13,35 @@ Y por último, se ha utilizado actuator para monitorear el estado de la aplicaci
 Y todo esta implementado en el archivo de configuración de Maven.  [ver pom.xml](pom.xml)
 
 ## Heroku 
-Se ha desplegado la aplicación en Heroku, para que puedas verla en acción. [Ver aplicación](https://platzi-2024-jardin-azuayo.herokuapp.com/)
+Se ha desplegado la aplicación en Heroku, para que puedas verla en acción. [Ver aplicación](https://platzi-market-ov-0be194307f11.herokuapp.com/platzi-market/api/swagger-ui.html)
 
 Aun que si el proyecto no esta corriendo se deja la evidencia grafica a continuación:
 
+Saludar
+Url: https://platzi-market-ov-0be194307f11.herokuapp.com/platzi-market/api/saludar/
+![logo](./imagenes/saludar.png)
+
+Actuator
+Url: https://platzi-market-ov-0be194307f11.herokuapp.com/platzi-market/api/actuator
+![logo](./imagenes/actuator.png)
+
+
+Swagger
+Url: https://platzi-market-ov-0be194307f11.herokuapp.com/platzi-market/api/swagger-ui.html
+![logo](./imagenes/swagger.png)
+
+
+## Demo de uso
+Para poder utilizar la aplicación se hizo desde el swagger y el mismo presenta el siguiente video:
+![](./imagenes/uso.mp4)
+
+
+## Heroku
+Se ha desplegado la aplicación en Heroku, se dejan adjuntos los archivos PDF de la configuracion del app y de la base de datos en los siguientes enlaces:
+
+[Configuración de la aplicación](./imagenes/platzi-market-ovHeroku.pdf)
+
+[Configuración de la base de datos](./imagenes/postgresql-opaque-29209HerokuData.pdf)
 
 ---
 ![logo](./imagenes/logo.png)
