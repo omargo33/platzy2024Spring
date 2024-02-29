@@ -33,7 +33,7 @@ Url: https://platzi-market-ov-0be194307f11.herokuapp.com/platzi-market/api/swagg
 
 ## Demo de uso
 Para poder utilizar la aplicación se hizo desde el swagger y el mismo presenta el siguiente video:
-![](./imagenes/uso.mp4)
+![Vide Swagger](./imagenes/uso.mp4)
 
 
 ## Heroku
