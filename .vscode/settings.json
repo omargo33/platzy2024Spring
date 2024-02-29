@@ -1,0 +1,22 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.runtimes": [        
+        {
+            "name": "JavaSE-17",
+            "path": "/home/colaborador/Oracle/jdk/jdk-17.0.10",
+            "default": true
+        }
+    ],
+    "maven.terminal.favorites": [
+        {
+            "command": "clean compile install",
+            "debug": false
+        },
+        {
+            "command": "--version",
+            "debug": false
+        }
+    ],
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx4G -Xms100m -Xlog:disable",
+}
