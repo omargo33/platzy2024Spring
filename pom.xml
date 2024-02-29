@@ -88,11 +88,16 @@
 	<build>
 		<plugins>
 			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-jar-plugin</artifactId>
 				<version>3.0.0</version>
 				<configuration>
-					<mainClass>com.platzi.market.PlatziMarketApplication</mainClass>
+					<finalName>platziMarket</finalName>
+					<mainClass>com.platzi.market.PlatziMarketApplication</mainClass>					
 				</configuration>
 			</plugin>
 			<!-- https://adrianzubietah.medium.com/lombok-y-mapstrut-b14bac7bc876 -->
