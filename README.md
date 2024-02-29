@@ -35,6 +35,8 @@ Url: https://platzi-market-ov-0be194307f11.herokuapp.com/platzi-market/api/swagg
 Para poder utilizar la aplicación se hizo desde el swagger y el mismo presenta el siguiente video:
 ![Vide Swagger](./imagenes/uso.mp4)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AIJovuN8_0o/0.jpg)](https://www.youtube.com/watch?v=AIJovuN8_0o)
+
 
 ## Heroku
 Se ha desplegado la aplicación en Heroku, se dejan adjuntos los archivos PDF de la configuracion del app y de la base de datos en los siguientes enlaces:
