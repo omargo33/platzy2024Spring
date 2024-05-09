@@ -45,9 +45,7 @@ Se ha desplegado la aplicación en Heroku, se dejan adjuntos los archivos PDF de
 [Configuración de la base de datos](./imagenes/postgresql-opaque-29209HerokuData.pdf)
 
 ---
-![logo](./imagenes/logo.png)
 
-
-<o.velez@jardinazuayo.fin.ec>
+<o.velez>
 
 **Actualizado: 2024-02-29**
